@@ -1,0 +1,9 @@
+127.0.0.1 - - [01/Jul/2024:16:09:28 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:16:13:24 +0530] "GET /MyProject/Myfirstclass HTTP/1.1" 404 777
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:16:27:51 +0530] "GET /MyProject/index.jsp HTTP/1.1" 404 753
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:16:28:05 +0530] "GET /MyProject/index.jsp HTTP/1.1" 404 753
+127.0.0.1 - - [01/Jul/2024:16:34:53 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:16:34:53 +0530] "GET /MyProject/Mysecondclass HTTP/1.1" 200 21
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:16:35:16 +0530] "GET /MyProject/index.jsp HTTP/1.1" 200 184
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:16:35:18 +0530] "GET /MyProject/Mysecondclass HTTP/1.1" 200 21
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:16:35:21 +0530] "GET /MyProject/Mysecondclass HTTP/1.1" 200 21

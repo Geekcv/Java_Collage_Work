@@ -1,0 +1,12 @@
+127.0.0.1 - - [02/Jul/2024:10:18:52 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [02/Jul/2024:10:18:55 +0530] "GET /Assignment3/currentDate.jsp HTTP/1.1" 200 264
+0:0:0:0:0:0:0:1 - - [02/Jul/2024:10:18:55 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [02/Jul/2024:10:20:49 +0530] "GET /Assignment3/redirect.jsp HTTP/1.1" 200 245
+0:0:0:0:0:0:0:1 - - [02/Jul/2024:10:20:49 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [02/Jul/2024:10:20:52 +0530] "GET /Assignment3/anotherPage.jsp HTTP/1.1" 404 746
+0:0:0:0:0:0:0:1 - - [02/Jul/2024:10:21:19 +0530] "GET /Assignment3/redirect.jsp HTTP/1.1" 200 245
+0:0:0:0:0:0:0:1 - - [02/Jul/2024:10:21:20 +0530] "GET /Assignment3/currentDate.jsp HTTP/1.1" 200 264
+0:0:0:0:0:0:0:1 - - [02/Jul/2024:10:23:00 +0530] "GET /Assignment3/oversBallsConverter.jsp HTTP/1.1" 200 692
+0:0:0:0:0:0:0:1 - - [02/Jul/2024:10:23:00 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [02/Jul/2024:10:23:09 +0530] "POST /Assignment3/oversBallsConverter.jsp HTTP/1.1" 200 741
+0:0:0:0:0:0:0:1 - - [02/Jul/2024:10:23:16 +0530] "POST /Assignment3/oversBallsConverter.jsp HTTP/1.1" 200 741
